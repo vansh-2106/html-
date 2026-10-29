@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+<header>
+    <h1>Community Event Hub</h1>
+    <nav>
+        <ul>
+            <li> <a href="#upcoming-events">
+                Upcoming Events</a></li>
+            <li><a href="#past-events">Past Events</a></li>
+            </ul>
+    </header>
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <h3>Community Gardening Workshop</h3>
+                <p>Learn practical planting tips, prepare a small garden bed, and take home seeds to grow in your own space.</p>
+                </article>
+                <article>
+                <h3>Neighborhood Food Festival</h3>
+                <p>Meet local cooks and makers, sample regional dishes, and enjoy an afternoon of food, music, and conversation.</p>
+                </article>
+            </section>
+            <section id="past-events">
+                <h2> Past Events</h2>
+                <article>
+                <h3>Community Arts Day</h3>
+                <p>Neighbors came together to explore local art, join hands-on activities, and celebrate the creativity in our community.</p>
+                <img src="https://jointheterritory.nt.gov.au/__data/assets/image/0008/1586744/Katherine-Regional-Arts-resized.jpg" alt="Visitors taking part in a community arts workshop"
+                width="500" height="500">
+                </article>
+                <article>
+                <h3>Summer Music Evening</h3>
+                <p>Local musicians performed outdoors as families and friends gathered for an evening of live music and shared memories.</p>
+                <img src="https://files.idss.com/C409/9e5e460e-230b-4c55-89e5-d5977d945577.jpg" alt="Audience enjoying an outdoor summer concert"
+                width="500" height="500">
+                </article>
+
+                </section>
+                </main>
+</body>
+
+</html>
